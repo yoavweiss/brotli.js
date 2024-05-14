@@ -9,7 +9,8 @@
   },
   "type": "module",
   "exports": {
-    "./wasm": "./build/brotli.wasm"
+    "./wasm": "./build/brotli.wasm",
+    "./compress": "./compress.js"
   },
   "keywords": [
     "compress",
